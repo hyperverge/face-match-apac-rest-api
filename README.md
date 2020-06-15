@@ -1,2 +1,2 @@
-# face-match-apac-rest-api
-Documentation for the Face Match API
+# Face Match API Documentation
+This documentation has been moved to a new location. Please contact HyperVerge for more information. 
